@@ -11,3 +11,5 @@
 
 #!.yarn/cache
 .pnp.*
+config/*.env
+node_modules
